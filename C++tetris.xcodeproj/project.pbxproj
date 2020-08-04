@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		493AA93624D8463B00CB1E9A /* C++tetris */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C++tetris"; sourceTree = BUILT_PRODUCTS_DIR; };
 		493AA93924D8463B00CB1E9A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		493AA94024D84D7400CB1E9A /* pieces.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = pieces.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				493AA93924D8463B00CB1E9A /* main.cpp */,
+				493AA94024D84D7400CB1E9A /* pieces.h */,
 			);
 			path = "C++tetris";
 			sourceTree = "<group>";
